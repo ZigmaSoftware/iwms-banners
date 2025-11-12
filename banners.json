@@ -1,12 +1,41 @@
 {
   "version": 1,
-  "updatedAt": "2025-11-12T06:00:00Z",
+  "updatedAt": "2025-11-12T09:00:00Z",
   "items": [
     {
-      "chipLabel": "TIP",
-      "title": "Dry waste today",
-      "subtitle": "Separate paper and cardboard before pickup.",
-      "imageUrl": "https://example.com/tip1.jpg"
+      "chipLabel": "Support",
+      "title": "Report missed pickups instantly",
+      "subtitle": "Our support desk responds within 10 mins.",
+      "colors": ["#1B5E20", "#43A047"],
+      "icon": "support",
+      "imageUrl": "https://raw.githubusercontent.com/ZigmaSoftware/iwms-banners/main/images/banner1.jpg",
+      "subtitleFontSize": 10
+    },
+    {
+      "chipLabel": "Pickups",
+      "title": "Track your collector live on map",
+      "subtitle": "Stay ready before the vehicle arrives.",
+      "colors": ["#1B5E20", "#2E7D5A"],
+      "icon": "map",
+      "imageUrl": "https://raw.githubusercontent.com/ZigmaSoftware/iwms-banners/main/images/banner3.jpg",
+      "subtitleFontSize": 10
+    },
+    {
+      "chipLabel": "Segregation",
+      "title": "Smart sorting keeps trucks faster",
+      "subtitle": "Separate dry, wet & mixed waste every morning.",
+      "colors": ["#1B5E20", "#66BB6A"],
+      "icon": "segregation",
+      "imageUrl": "https://raw.githubusercontent.com/ZigmaSoftware/iwms-banners/main/images/banner2.jpg",
+      "subtitleFontSize": 10
+    },
+    {
+      "chipLabel": "Rewards",
+      "title": "Earn green points every recycle",
+      "subtitle": "Redeem perks from trusted partners.",
+      "colors": ["#2E7D5A", "#66BB6A"],
+      "icon": "star",
+      "imageUrl": "https://raw.githubusercontent.com/ZigmaSoftware/iwms-banners/main/images/banner4.jpg"
     }
   ]
 }
