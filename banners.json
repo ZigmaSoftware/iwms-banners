@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2025-11-12T06:00:00Z",
+  "items": [
+    {
+      "chipLabel": "TIP",
+      "title": "Dry waste today",
+      "subtitle": "Separate paper and cardboard before pickup.",
+      "imageUrl": "https://example.com/tip1.jpg"
+    }
+  ]
+}
